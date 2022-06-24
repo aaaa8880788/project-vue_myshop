@@ -13,21 +13,21 @@
 ### 项目描述
 
 # 登录页面
-![登录页面](image.png)
+![登录页面](./image.png)
 # welcome页面
-![welcome页面](welcome.png)
+![welcome页面](./welcome.png)
 # 用户列表页面
-![用户列表页面](userList.png)
+![用户列表页面](./userList.png)
 # 权限管理页面
-![角色列表](roleList.png)
-![角色列表添加角色](roleListAdd.png)
-![权限列表](powerList.png)
+![角色列表](./roleList.png)
+![角色列表添加角色](./roleListAdd.png)
+![权限列表](./powerList.png)
 # 商品管理页面
-![商品列表](goodsList.png)
-![商品列表添加商品](goodsListAddGoods.png)
-![分类列表](categoriesList.png)
-![商品分类](goodsCategories.png)
+![商品列表](./goodsList.png)
+![商品列表添加商品](./goodsListAddGoods.png)
+![分类列表](./categoriesList.png)
+![商品分类](./goodsCategories.png)
 # 订单管理页面
-![订单列表](orderMange.png)
+![订单列表](./orderMange.png)
 # 数据统计页面
-![数据报表](dataCount.png)
+![数据报表](./dataCount.png)
