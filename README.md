@@ -13,7 +13,7 @@
 ### 项目描述
 
 # 登录页面
-![登录页面](./image.png)
+![登录页面](./images/image.png)
 # welcome页面
 ![welcome页面](./welcome.png)
 # 用户列表页面
