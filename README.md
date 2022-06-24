@@ -13,21 +13,23 @@
 ### 项目描述
 
 # 登录页面
-![登录页面](./images/image.png)
+![image-20220624222601088](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242226205.png)
 # welcome页面
-![welcome页面](./welcome.png)
+![image-20220624222652384](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242226439.png)
 # 用户列表页面
-![用户列表页面](./userList.png)
+![image-20220624222733743](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242227796.png)
 # 权限管理页面
-![角色列表](./roleList.png)
-![角色列表添加角色](./roleListAdd.png)
-![权限列表](./powerList.png)
+![image-20220624222820467](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242228560.png)
+![image-20220624222835187](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242228252.png)
+![image-20220624222851187](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242228240.png)
+
 # 商品管理页面
-![商品列表](./goodsList.png)
-![商品列表添加商品](./goodsListAddGoods.png)
-![分类列表](./categoriesList.png)
-![商品分类](./goodsCategories.png)
+![image-20220624222909212](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242229279.png)
+![image-20220624222927353](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242229427.png)
+![image-20220624222944531](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242229584.png)
+![image-20220624223003375](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242230431.png)
+
 # 订单管理页面
-![订单列表](./orderMange.png)
+![image-20220624223018560](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242230617.png)
 # 数据统计页面
-![数据报表](./dataCount.png)
+![image-20220624223033358](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/vue_myshop/202206242230413.png)
